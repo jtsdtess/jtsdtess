@@ -2,7 +2,10 @@
 
 **Frontend Developer — Vue.js | Nuxt.js | Supabase**
 
-![header](https://placehold.co/1200x200/1e1e2f/ffffff?text=Ivan+Izmaylov+—+Frontend+Developer)
+## 🌐 Portfolio
+**Website:** https://your-portfolio-site.com  
+A collection of my best Vue/Nuxt/Supabase projects.
+
 
 ## 🚀 About Me
 
