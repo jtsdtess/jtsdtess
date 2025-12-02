@@ -36,9 +36,9 @@ I'm a frontend developer passionate about clean UI, smooth UX, and modern full-s
 
 ## ☕ Connect With Me
 
-- Telegram: https://t.me/your_tg
-- Email: youremail@example.com
-- Website/Portfolio: _coming soon_
+- Telegram: https://t.me/jtsdtess
+- Email:  jtsdtess@gmail.com
+- Website/Portfolio: [https://jtsdtess-dev.vercel.app](https://jtsdtess-dev.vercel.app/)  
 
 ---
 
