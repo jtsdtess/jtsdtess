@@ -30,7 +30,7 @@ I'm a frontend developer passionate about clean UI, smooth UX, and modern full-s
 
 ### Tools
 
-`Git` • `VS Code`
+`Git` • `VS Code` • `Adobe Photoshop`
 
 ---
 
@@ -42,6 +42,6 @@ I'm a frontend developer passionate about clean UI, smooth UX, and modern full-s
 
 ---
 
-### ⚡ Optional fact
+### ⚡ Optional fun fact
 
 Besides work, I love cycling and building Lego sets.
