@@ -4,14 +4,14 @@
 
 ## 🌐 Portfolio
 **Website:** [https://jtsdtess-dev.vercel.app](https://jtsdtess-dev.vercel.app/)  
-A collection of my best Vue/Nuxt/Supabase projects.
+A collection of my work projects and side projects.
 
 
 ## 🚀 About Me
 
 I'm a frontend developer passionate about clean UI, smooth UX, and modern full-stack workflows using Vue/Nuxt and Supabase.
 
-- Currently working on: **Modern web apps with Vue 3, Nuxt 4 & Supabase**
+- Currently I'm improving my skills on: **Modern web apps with Vue 3, Nuxt 4 & Supabase**
 - Learning: advanced SSR patterns, edge functions, and full-stack TypeScript
 - Love: pixel-perfect UI, animations, and building real products
 
