@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ivan Izmaylov
 
-**Frontend Developer — Vue.js | Nuxt.js | Supabase | TailwindCSS**
+**Frontend Developer — Vue.js | Nuxt.js | Supabase | Tailwind CSS**
 
 ## 🌐 Portfolio
 **Website:** [https://jtsdtess-dev.vercel.app](https://jtsdtess-dev.vercel.app/)  
@@ -22,7 +22,7 @@ I'm a frontend developer passionate about clean UI, smooth UX, and modern full-s
 ### Frontend
 
 `Vue 3` • `Nuxt 3` • `JavaScript` • `TypeScript` •  
-`HTML5` • `CSS3` • `TailwindCSS` • `Vite`
+`HTML5` • `CSS3` • `Tailwind CSS` • `Vite`
 
 ### Backend / Database
 
