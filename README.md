@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ivan Izmaylov
 
-**Frontend Developer — Vue.js | Nuxt.js | Supabase**
+**Frontend Developer — Vue.js | Nuxt.js | Supabase| TailwindCSS**
 
 ## 🌐 Portfolio
 **Website:** [https://jtsdtess-dev.vercel.app](https://jtsdtess-dev.vercel.app/)  
